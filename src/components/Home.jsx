@@ -18,4 +18,7 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Home;
+//"home": "https://vidyaMadugula.github.io/Portfolio",
+// "predeploy": "npm run build",
+//"deploy": "gh-pages -d build",
