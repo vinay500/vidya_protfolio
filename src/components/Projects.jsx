@@ -40,7 +40,7 @@ const Projects = () => {
                 <div class="p-2">
                   <p class="text-3xl text-white mt-40 flex items-center justify-center">YouTube Explorer</p>
                   <p className='text-1xl text-white flex items-center justify-center'>Constructed an advanced React project enabling users to explore YouTube content seamlessly. Leveraged the YouTube API to source and display videos, while integrating Live Chat and Comments Sections.</p>
-                  <a href='https://vidyamadugula.github.io/travel_website/' target='_blank'>
+                  <a href='https://drive.google.com/file/d/1GXMiJFNewMFG1PfF1A6U1HMA0ANza-KR/view?usp=sharing' target='_blank'>
                   <svg class="h-8 w-8 text-white ml-48 mt-6"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round">  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />  <polyline points="15 3 21 3 21 9" />  <line x1="10" y1="14" x2="21" y2="3" /></svg>
                   </a>
                 </div>
