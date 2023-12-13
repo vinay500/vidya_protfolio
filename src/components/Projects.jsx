@@ -8,18 +8,18 @@ const Projects = () => {
       <h1 className='text-6xl text-white font-bold pt-16 pb-8 flex items-center justify-center'>Projects</h1>
       <div className='flex flex-row'>
         <div className='flex-1'>
-        <div class="flex items-center justify-center mt-12 ">
-          <a class="relative block w-2/3 h-full bg-red-800 group rounded-2xl" href="##">
-          <img class="absolute inset-0 object-cover w-full h-full group-hover:opacity-50 rounded-2xl" src={travel}/>
-          <div class="relative p-5">
-           <div class="mt-40">
+        <div className="flex items-center justify-center mt-12 ">
+          <a className="relative block w-2/3 h-full bg-red-800 group rounded-2xl" href="##">
+          <img className="absolute inset-0 object-cover w-full h-full group-hover:opacity-50 rounded-2xl" src={travel}/>
+          <div className="relative p-5">
+           <div className="mt-40">
                {/* Hidden content */}
-              <div class="transition-all transform translate-y-8 opacity-0 group-hover:opacity-100 group-hover:translate-y-0 h-96">
-                <div class="p-2 ">
-                  <p class="text-3xl text-white mt-40 flex items-center justify-center">Travel Website</p>
+              <div className="transition-all transform translate-y-8 opacity-0 group-hover:opacity-100 group-hover:translate-y-0 h-96">
+                <div className="p-2 ">
+                  <p className="text-3xl text-white mt-40 flex items-center justify-center">Travel Website</p>
                   <p className='text-1xl text-white flex items-center justify-center'>The travel website project aims to create an interactive and visually appealing platform for users to explore and provides information about various destinations. Technologies used HTML,CSS,Java Script.</p>
                   <a href='https://vidyamadugula.github.io/travel_website/' target='_blank'>
-                  <svg class="h-8 w-8 text-white ml-48 mt-6"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round">  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />  <polyline points="15 3 21 3 21 9" />  <line x1="10" y1="14" x2="21" y2="3" /></svg>
+                  <svg className="h-8 w-8 text-white ml-48 mt-6"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round">  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />  <polyline points="15 3 21 3 21 9" />  <line x1="10" y1="14" x2="21" y2="3" /></svg>
                   </a>
                 </div>
             </div>
@@ -30,18 +30,18 @@ const Projects = () => {
       </div>
         </div>
       <div className='flex-1'>
-      <div class="flex items-center justify-center mt-12 ">
-          <a class="relative block w-2/3 h-full bg-red-800 group rounded-2xl flex-flow-column "  href="##">
-          <img class="absolute inset-0 object-fill w-full  h-full group-hover:opacity-50 rounded-2xl" src={youtube}/>
-          <div class="relative p-5">
-           <div class="mt-40">
+      <div className="flex items-center justify-center mt-12 ">
+          <a className="relative block w-2/3 h-full bg-red-800 group rounded-2xl flex-flow-column "  href="##">
+          <img className="absolute inset-0 object-fill w-full  h-full group-hover:opacity-50 rounded-2xl" src={youtube}/>
+          <div className="relative p-5">
+           <div className="mt-40">
                {/* Hidden content */}
-              <div class="transition-all transform translate-y-8 opacity-0 group-hover:opacity-100 group-hover:translate-y-0 h-96">
-                <div class="p-2">
-                  <p class="text-3xl text-white mt-40 flex items-center justify-center">YouTube Explorer</p>
+              <div className="transition-all transform translate-y-8 opacity-0 group-hover:opacity-100 group-hover:translate-y-0 h-96">
+                <div className="p-2">
+                  <p className="text-3xl text-white mt-40 flex items-center justify-center">YouTube Explorer</p>
                   <p className='text-1xl text-white flex items-center justify-center'>Constructed an advanced React project enabling users to explore YouTube content seamlessly. Leveraged the YouTube API to source and display videos, while integrating Live Chat and Comments Sections.</p>
                   <a href='https://drive.google.com/file/d/1GXMiJFNewMFG1PfF1A6U1HMA0ANza-KR/view?usp=sharing' target='_blank'>
-                  <svg class="h-8 w-8 text-white ml-48 mt-6"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round">  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />  <polyline points="15 3 21 3 21 9" />  <line x1="10" y1="14" x2="21" y2="3" /></svg>
+                  <svg className="h-8 w-8 text-white ml-48 mt-6"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round">  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />  <polyline points="15 3 21 3 21 9" />  <line x1="10" y1="14" x2="21" y2="3" /></svg>
                   </a>
                 </div>
             </div>
