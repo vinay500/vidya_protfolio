@@ -35,7 +35,7 @@ const Skills = () => {
         </div>
         
         <div className='w-1/3 h-32 bg-neutral-800 m-3  rounded-2xl'>
-        <h1 className='text-white text-3xl pt-4 pl-10'>React</h1>
+        <h1 className='text-white text-3xl pt-4 pl-10'>ReactJS</h1>
         <div className='flex flex-row bg-white w-5/6 h-5 m-5 rounded-2xl'>
           <div className='w-96 bg-red-300 rounded-2xl flex items-center justify-center'>90%
           </div>

@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+/* "home": "https://vidyaMadugula.github.io/Portfolio", 
+"predeploy": "npm run build",
+    "deploy": "gh-pages-clean gh-pages -d build",
+    */
