@@ -4,6 +4,7 @@ import Header from './components/Header';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
+import './index.css';
 //import { BrowserRouter, createBrowserRouter,Outlet, Routes,Route } from 'react-router-dom';
 
 

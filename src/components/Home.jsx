@@ -11,7 +11,7 @@ const Home = () => {
         <h1 className='font-bold text-4xl'> Frontend Developer</h1>
     </div>
     <div className='bg-neutral-800 p-20 mt-20 mr-20 rounded-2xl'>
-        <img className='w-50 bg-transparent rounded-2xl' src={vidya} alt='background'></img>
+        <img className='w-50 bg-transparent rounded-2xl' src={vidya} alt='background' ></img>
     </div>
     </div>
     
@@ -19,6 +19,4 @@ const Home = () => {
 }
 
 export default Home;
-//"home": "https://vidyaMadugula.github.io/portfolio",
-// "predeploy": "npm run build",
-//"deploy": "gh-pages -d build",
+
