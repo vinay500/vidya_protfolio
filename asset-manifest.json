@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vidya_protfolio/static/css/main.5880fc3e.css",
+    "main.js": "/vidya_protfolio/static/js/main.3626d7ab.js",
+    "static/media/youtube.png": "/vidya_protfolio/static/media/youtube.5b9a4940efeb8042f4f6.png",
+    "static/media/travel.jpg": "/vidya_protfolio/static/media/travel.2e4b2fe3626260d9c6e8.jpg",
+    "static/media/Vidya.jpg": "/vidya_protfolio/static/media/Vidya.76e55c55f230ae648c2e.jpg",
+    "index.html": "/vidya_protfolio/index.html",
+    "main.5880fc3e.css.map": "/vidya_protfolio/static/css/main.5880fc3e.css.map",
+    "main.3626d7ab.js.map": "/vidya_protfolio/static/js/main.3626d7ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5880fc3e.css",
+    "static/js/main.3626d7ab.js"
+  ]
+}
